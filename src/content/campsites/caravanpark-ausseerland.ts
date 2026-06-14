@@ -95,12 +95,12 @@ const caravanparkAusseerland: CampsiteConfig = {
       },
       {
         title: "Kaffee am Platz — die Snackbox",
-        text: "Selbstbedienungs-Snackbox direkt am Platz: frisch gebrühter Kaffee, kühle Getränke sowie herzhafte und süße Snacks für zwischendurch.",
+        text: "Selbstbedienungs-Snackbox am Platz: frisch gebrühter Kaffee, kühle Getränke und süße oder herzhafte Snacks.",
         image: { src: `${IMG}/gallery-5577ae8be3.webp`, alt: "Snackbox mit Selbstbedienung am Caravanpark Ausseerland" },
       },
       {
         title: "Frühstückstreff im Schutzhaus",
-        text: "Regionales Frühstücksbuffet mit Willkommensgetränk im Schutzhaus nebenan — € 28 pro Person, mit Vorreservierung bis 18 Uhr am Vortag.",
+        text: "Regionales Frühstücksbuffet mit Willkommensgetränk im Schutzhaus nebenan — Voranmeldung bis 18 Uhr am Vortag.",
         image: { src: `${IMG}/gallery-5faf0ff91b.webp`, alt: "Frühstücksraum im Schutzhaus am hohen Camper" },
       },
       {
@@ -110,7 +110,7 @@ const caravanparkAusseerland: CampsiteConfig = {
       },
       {
         title: "365 Tage im Jahr geöffnet",
-        text: "Ob Bergsommer oder verschneiter Wintertag — der Caravanpark hat das ganze Jahr offen, mit Schneeschuh- und Langlauf-Tipps von Reinhard.",
+        text: "Ob Bergsommer oder verschneiter Wintertag — der Caravanpark hat das ganze Jahr offen und Reinhard gibt Tipps.",
         image: { src: `${IMG}/gallery-f1f5002a41.webp`, alt: "Skitourengeher auf verschneitem Bergplateau im Ausseerland mit blauem Himmel" },
       },
     ],
@@ -124,7 +124,7 @@ const caravanparkAusseerland: CampsiteConfig = {
       {
         name: "Dein Naturloft",
         kind: "Glamping-Hütte",
-        text: "Boxspringbett (140 cm), Schlafcouch und Sitzecke mit kleinem Küchenblock samt Nespresso — plus eigene kleine Veranda. Frühstück inklusive.",
+        text: "Boxspringbett, Schlafcouch, Küchenblock mit Nespresso und eigene kleine Veranda — Frühstück inklusive.",
         image: { src: `${IMG}/accommodation-7a611d5bf9.webp`, alt: "Innenraum der Naturloft-Glamping-Hütte mit Küchenblock und Sitzecke" },
         priceFrom: 50,
         features: ["Bett mit Heizung", "Küchenblock & Nespresso", "Eigene Veranda", "ab € 50 p. P. inkl. Frühstück"],
@@ -132,7 +132,7 @@ const caravanparkAusseerland: CampsiteConfig = {
       {
         name: "Dein Mountainloft M",
         kind: "Appartement für 2–4",
-        text: "Freundliche Ferienwohnung mit offenem Wohn-Essbereich, Couch und Kamin — modern und rustikal kombiniert, mit viel Liebe zum Detail.",
+        text: "Gemütliche Ferienwohnung mit Wohn-Essbereich, Couch und Kamin — modern und rustikal, mit viel Liebe zum Detail.",
         image: { src: `${IMG}/gallery-768805f5f2.webp`, alt: "Wohnküche im Mountainloft-Appartement in Bad Aussee" },
         priceFrom: 80,
         features: ["Wohn-Essbereich mit Kamin", "2 bis 4 Personen"],
@@ -155,12 +155,12 @@ const caravanparkAusseerland: CampsiteConfig = {
     items: [
       {
         title: "Wandern & Gipfeltouren",
-        text: "Ein dichtes Wegenetz im Toten Gebirge und Dachsteinmassiv führt in gemütlichen Tagesetappen von Hütte zu Hütte — mitten in Österreich.",
+        text: "Ein dichtes Wegenetz im Toten Gebirge und Dachsteinmassiv führt auf gemütlichen Tagesetappen von Hütte zu Hütte.",
         image: { src: `${IMG}/gallery-9e3a937c50.webp`, alt: "Schroffe Berggipfel im Salzkammergut" },
       },
       {
         title: "Klettern & Klettersteige",
-        text: "Unzählige Klettersteige und Sportkletterrouten im Salzkammergut schenken dir Aus- und Tiefblicke, die du nicht so schnell vergisst.",
+        text: "Klettersteige und Sportkletterrouten im Salzkammergut schenken Aus- und Tiefblicke, die du nicht vergisst.",
         image: { src: `${IMG}/gallery-e9cbc320f1.webp`, alt: "Kletterer an einer Felswand mit Bergpanorama" },
       },
       {
