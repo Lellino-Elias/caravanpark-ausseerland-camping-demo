@@ -86,7 +86,7 @@ const caravanparkAusseerland: CampsiteConfig = {
       {
         title: "Stellplätze mit Bergblick",
         text: "Die Komfort-Plätze ab 60 m² (Nr. 6–10) blicken auf Loser, Trisselwand, Tressenstein und Zinken — Wasser, Strom und WC inklusive.",
-        image: { src: `${IMG}/gallery-539a6e4fe6.webp`, alt: "Wohnmobil auf dem Stellplatz mit verschneitem Bergpanorama am Caravanpark Ausseerland" },
+        image: { src: `${IMG}/gallery-45df650188.webp`, alt: "Wohnmobile auf den sommerlichen Stellplätzen mit Bergblick am Caravanpark Ausseerland" },
       },
       {
         title: "Sanitär & warme Duschen",
