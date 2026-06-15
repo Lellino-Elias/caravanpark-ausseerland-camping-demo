@@ -35,12 +35,12 @@ const caravanparkAusseerland: CampsiteConfig = {
     {
       title: "Stellplätze mit Bergblick",
       text: "Zehn großzügige Plätze, asphaltiert und eben — die Komfort-Plätze 6 bis 10 schauen direkt auf Loser, Trisselwand und Zinken.",
-      image: { src: `${IMG}/gallery-b74e67d476.webp`, alt: "Wohnmobile auf den Stellplätzen des Caravanpark Ausseerland" },
+      image: { src: `${IMG}/gallery-539a6e4fe6.webp`, alt: "Wohnmobil auf dem Stellplatz des Caravanpark Ausseerland mit verschneitem Berggipfel im Hintergrund" },
     },
     {
       title: "Glamping im Naturloft",
       text: "Keine Lust auf Zelt? Unsere Naturloft-Hütten bringen dich mit Boxspringbett, Heizung und kleiner Veranda mitten in die Natur.",
-      image: { src: `${IMG}/gallery-cf05cd5236.webp`, alt: "Glamping-Hütte Naturloft am Caravanpark Ausseerland" },
+      image: { src: `${IMG}/gallery-66af75dac8.webp`, alt: "Verschneiter Campingplatz mit Naturloft-Hütte im Ausseerland Winter" },
     },
     {
       title: "Berge & Seen vor der Tür",
@@ -86,7 +86,7 @@ const caravanparkAusseerland: CampsiteConfig = {
       {
         title: "Stellplätze mit Bergblick",
         text: "Die Komfort-Plätze ab 60 m² (Nr. 6–10) blicken auf Loser, Trisselwand, Tressenstein und Zinken — Wasser, Strom und WC inklusive.",
-        image: { src: `${IMG}/gallery-45df650188.webp`, alt: "Wohnmobile auf den sommerlichen Stellplätzen mit Bergblick am Caravanpark Ausseerland" },
+        image: { src: `${IMG}/gallery-618c05bc89.webp`, alt: "Winterlicher Campingplatz des Caravanpark Ausseerland im Schnee" },
       },
       {
         title: "Sanitär & warme Duschen",
@@ -161,12 +161,12 @@ const caravanparkAusseerland: CampsiteConfig = {
       {
         title: "Klettern & Klettersteige",
         text: "Klettersteige und Sportkletterrouten im Salzkammergut schenken Aus- und Tiefblicke, die du nicht vergisst.",
-        image: { src: `${IMG}/gallery-e9cbc320f1.webp`, alt: "Kletterer an einer Felswand mit Bergpanorama" },
+        image: { src: `${IMG}/gallery-57c056ba98.webp`, alt: "Gipfelkreuz über dem Wolkenmeer bei Sonnenaufgang im Salzkammergut" },
       },
       {
         title: "Baden in klaren Seen",
         text: "Die kristallklaren Seen im Ausseerland haben Trinkwasserqualität und laden im Sommer zum Sprung ins kühle Nass ein.",
-        image: { src: `${IMG}/gallery-783bbe0a83.webp`, alt: "Baden im klaren Bergsee im Ausseerland" },
+        image: { src: `${IMG}/gallery-d02935a7f3.webp`, alt: "Luftaufnahme des Grundlsees mit Aussee-Dorf und Bergen im Salzkammergut" },
       },
       {
         title: "Bergwinter & Loipen",
@@ -201,9 +201,9 @@ const caravanparkAusseerland: CampsiteConfig = {
     tag: "Sommer & Winter",
     moreCount: 24,
     images: [
-      { src: `${IMG}/gallery-193f486508.webp`, alt: "Gartentreff mit Bistro-Stühlen am Schutzhaus" },
-      { src: `${IMG}/gallery-bf882bd1e0.webp`, alt: "Nebelmeer über den Bergen des Ausseerlands" },
-      { src: `${IMG}/gallery-a3dd7784d9.webp`, alt: "Spiegelung der verschneiten Berge im Bergsee" },
+      { src: `${IMG}/gallery-9fc020ee1d.webp`, alt: "Blick auf den Dachstein-Gletscher mit Alpenblumen im Vordergrund" },
+      { src: `${IMG}/gallery-3b41885244.webp`, alt: "Wirtshaus mit Biergarten und Bergpanorama im Salzkammergut" },
+      { src: `${IMG}/gallery-43a662e29e.webp`, alt: "Snackbox und Pergola mit Sitzbereich am Caravanpark Ausseerland" },
       { src: `${IMG}/gallery-f3c62c64f6.webp`, alt: "Naturloft-Hütte mit Gartenidylle am Schutzhaus" },
     ],
   },
