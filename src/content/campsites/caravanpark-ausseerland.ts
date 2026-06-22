@@ -35,12 +35,12 @@ const caravanparkAusseerland: CampsiteConfig = {
     {
       title: "Stellplätze mit Bergblick",
       text: "Zehn großzügige Plätze, asphaltiert und eben — die Komfort-Plätze 6 bis 10 schauen direkt auf Loser, Trisselwand und Zinken.",
-      image: { src: `${IMG}/gallery-539a6e4fe6.webp`, alt: "Wohnmobil auf dem Stellplatz des Caravanpark Ausseerland mit verschneitem Berggipfel im Hintergrund" },
+      image: { src: `${IMG}/gallery-45df650188.webp`, alt: "Wohnmobil am Stellplatz des Caravanpark Ausseerland bei Sonnenuntergang mit Bergpanorama im Hintergrund" },
     },
     {
       title: "Glamping im Naturloft",
       text: "Keine Lust auf Zelt? Unsere Naturloft-Hütten bringen dich mit Boxspringbett, Heizung und kleiner Veranda mitten in die Natur.",
-      image: { src: `${IMG}/gallery-66af75dac8.webp`, alt: "Verschneiter Campingplatz mit Naturloft-Hütte im Ausseerland Winter" },
+      image: { src: `${IMG}/gallery-cf05cd5236.webp`, alt: "Naturloft-Hütte des Caravanpark Ausseerland im Sommer mit Veranda und Gartenblüte im Vordergrund" },
     },
     {
       title: "Berge & Seen vor der Tür",
@@ -86,12 +86,12 @@ const caravanparkAusseerland: CampsiteConfig = {
       {
         title: "Stellplätze mit Bergblick",
         text: "Die Komfort-Plätze ab 60 m² (Nr. 6–10) blicken auf Loser, Trisselwand, Tressenstein und Zinken — Wasser, Strom und WC inklusive.",
-        image: { src: `${IMG}/gallery-618c05bc89.webp`, alt: "Winterlicher Campingplatz des Caravanpark Ausseerland im Schnee" },
+        image: { src: `${IMG}/gallery-b74e67d476.webp`, alt: "Wohnmobile auf den Stellplätzen des Caravanpark Ausseerland im Sommer mit Bergpanorama" },
       },
       {
         title: "Sanitär & warme Duschen",
         text: "WC-Anlagen und Duschen findest du im schwarzen Container am Platz sowie im Schutzhaus — eine warme Dusche kostet nur € 1.",
-        image: { src: `${IMG}/gallery-3d182b06ea.webp`, alt: "WC und Dusche im Container am Campingplatz" },
+        image: { src: `${IMG}/gallery-193f486508.webp`, alt: "Außenterrasse des Schutzhaus am Hohen Camper mit Bistrostühlen und Garten im Sommer" },
       },
       {
         title: "Kaffee am Platz — die Snackbox",
